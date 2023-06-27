@@ -3,7 +3,7 @@
 ## Install
 
 1. Clone repositori ini
-   `git clone https://github.com/fajarbh/hoceen.git`
+   `git clone git@github.com:fajarbh14/expressJs-ejs.git`
 2. Lakukan instalasi package dengan `npm install` atau `yarn`
 3. Jalankan Aplikasi dengan `npm run dev`
 
